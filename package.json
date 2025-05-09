@@ -2,7 +2,7 @@
   "name": "revenue-ai-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://henryspringer.github.io/revenue-ai-dashboard",
+  "homepage": "https://henryspringer.github.io/revenue-ai-first-hiring",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -10,7 +10,7 @@
     "typescript": "^4.9.5"
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0"
+    "gh-pages": "^6.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -18,4 +18,4 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   }
-} 
+}
